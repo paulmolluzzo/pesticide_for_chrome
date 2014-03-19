@@ -1,12 +1,20 @@
-# Pesticide for Chrome
+# This repo is DEPRECATED
 
-This is a Chrome extension for [Pesticide CSS](https://github.com/mrmrs/pesticide) and is [availabe in the Chrome Webstore here](https://chrome.google.com/webstore/detail/bblbgcheenepgnnajgfpiicnbbdmmooh).
+This repo was copied into the original [Pesticide CSS](https://github.com/mrmrs/pesticide) repo. For future updates, fork the Pesticide repo and submit a pull request. If the request is merged in, create a new issue to have it pushed up to the Chrome Web Store.
 
-This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
+[You can still follow Adam on Twitter here.](https://twitter.com/mrmrs_)
 
-[You can follow Adam on Twitter here.](https://twitter.com/mrmrs_)
+[You can still follow me here.](https://twitter.com/paulmolluzzo)
 
-[You can follow me here.](https://twitter.com/paulmolluzzo)
+# ~~Pesticide for Chrome~~
+
+~~This is a Chrome extension for [Pesticide CSS](https://github.com/mrmrs/pesticide) and is [availabe in the Chrome Webstore here](https://chrome.google.com/webstore/detail/bblbgcheenepgnnajgfpiicnbbdmmooh).~~
+
+~~This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.~~
+
+~~[You can follow Adam on Twitter here.](https://twitter.com/mrmrs_)~~
+
+~~[You can follow me here.](https://twitter.com/paulmolluzzo)~~
 
 The MIT License (MIT)
 
